@@ -1,5 +1,1 @@
-Limpiar
-Comer
-Dejar
-Ejercitar
-Deshacer
+This is an example.
