@@ -1,7 +1,6 @@
 Limpiar
-Cenar
-Salir
-Programar
-Mejorar
-Brosketear
+Comer
+Dejar
+Ejercitar
+Deshacer
 
