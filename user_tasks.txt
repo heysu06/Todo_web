@@ -1,0 +1,4 @@
+Limpiar
+Cenar
+Salir
+Programar
