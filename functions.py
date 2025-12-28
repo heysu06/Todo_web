@@ -12,5 +12,8 @@ def write_user_tasks( user_task_arg , filepath=FILEPATH):
         with open(filepath , 'w') as file:
             file.writelines(user_task_arg)\
             
+
+
+
 if __name__ == "__main__":
       print(read_user_tasks())
