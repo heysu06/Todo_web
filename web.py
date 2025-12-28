@@ -22,6 +22,3 @@ for index , todo in enumerate(todos):
         fc.write_user_tasks(todos)
         del st.session_state[todo]
         st.rerun()
-
-
-st.session_state
